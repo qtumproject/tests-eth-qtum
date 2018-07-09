@@ -11,7 +11,7 @@
         "post" : {
             "EIP150" : [
                 {
-                    "hash" : "824c238b75708fb4a25f1b1fd6d157278ced70e717a294790e74b0a006f31949",
+                    "hash" : "6de0acd12dfd21e9f45cfb770eb75b96be248825dacc00e7bd0845bf8304d2df",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
@@ -21,7 +21,7 @@
             ],
             "EIP158" : [
                 {
-                    "hash" : "824c238b75708fb4a25f1b1fd6d157278ced70e717a294790e74b0a006f31949",
+                    "hash" : "6de0acd12dfd21e9f45cfb770eb75b96be248825dacc00e7bd0845bf8304d2df",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
@@ -31,7 +31,7 @@
             ],
             "Frontier" : [
                 {
-                    "hash" : "ccf7765eff3effe22a5f853099f7da88291b8346b689ffbf54b729ba04170e59",
+                    "hash" : "6de0acd12dfd21e9f45cfb770eb75b96be248825dacc00e7bd0845bf8304d2df",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
@@ -41,7 +41,7 @@
             ],
             "Homestead" : [
                 {
-                    "hash" : "ccf7765eff3effe22a5f853099f7da88291b8346b689ffbf54b729ba04170e59",
+                    "hash" : "6de0acd12dfd21e9f45cfb770eb75b96be248825dacc00e7bd0845bf8304d2df",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
@@ -51,7 +51,7 @@
             ],
             "Metropolis" : [
                 {
-                    "hash" : "824c238b75708fb4a25f1b1fd6d157278ced70e717a294790e74b0a006f31949",
+                    "hash" : "6de0acd12dfd21e9f45cfb770eb75b96be248825dacc00e7bd0845bf8304d2df",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,

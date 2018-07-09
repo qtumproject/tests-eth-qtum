@@ -21,7 +21,7 @@
             ],
             "EIP158" : [
                 {
-                    "hash" : "7c490eb6a0b4ac8bedc69db1542a68292124b7fb81f1d37c0fe1a538f7fcb96c",
+                    "hash" : "24c1690cfd30246726282bd723e2efc208a1bd3f734465a5c18b7fa81c4242c2",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
@@ -51,7 +51,7 @@
             ],
             "Metropolis" : [
                 {
-                    "hash" : "7c490eb6a0b4ac8bedc69db1542a68292124b7fb81f1d37c0fe1a538f7fcb96c",
+                    "hash" : "24c1690cfd30246726282bd723e2efc208a1bd3f734465a5c18b7fa81c4242c2",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
