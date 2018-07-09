@@ -1320,56 +1320,6 @@
             }
         }
     },
-    "createNameRegistrator" : {
-        "callcreates" : [
-            {
-                "data" : "0x601080600c6000396000f3006000355415600957005b60203560003555",
-                "destination" : "",
-                "gasLimit" : "0x01098b",
-                "value" : "0x17"
-            }
-        ],
-        "env" : {
-            "currentCoinbase" : "2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",
-            "currentDifficulty" : "0x0100",
-            "currentGasLimit" : "0x0f4240",
-            "currentNumber" : "0x00",
-            "currentTimestamp" : "0x01"
-        },
-        "exec" : {
-            "address" : "0f572e5295c57f15886f9b263e2f6d2d6c7b5ec6",
-            "caller" : "cd1722f3947def4cf144679da39c4c32bdc35681",
-            "code" : "0x7c601080600c6000396000f3006000355415600957005b60203560003555600052601d60036017f0600055",
-            "data" : "0x",
-            "gas" : "0x0186a0",
-            "gasPrice" : "0x5af3107a4000",
-            "origin" : "cd1722f3947def4cf144679da39c4c32bdc35681",
-            "value" : "0x0de0b6b3a7640000"
-        },
-        "gas" : "0xbb68",
-        "logs" : [
-        ],
-        "out" : "0x",
-        "post" : {
-            "0f572e5295c57f15886f9b263e2f6d2d6c7b5ec6" : {
-                "balance" : "0x152d02c7e14af6800000",
-                "code" : "0x7c601080600c6000396000f3006000355415600957005b60203560003555600052601d60036017f0600055",
-                "nonce" : "0x00",
-                "storage" : {
-                    "0x00" : "0x945304eb96065b2a98b57a48a06ae28d285a71b5"
-                }
-            }
-        },
-        "pre" : {
-            "0f572e5295c57f15886f9b263e2f6d2d6c7b5ec6" : {
-                "balance" : "0x152d02c7e14af6800000",
-                "code" : "0x7c601080600c6000396000f3006000355415600957005b60203560003555600052601d60036017f0600055",
-                "nonce" : "0x00",
-                "storage" : {
-                }
-            }
-        }
-    },
     "createNameRegistratorOutOfMemoryBonds0" : {
         "env" : {
             "currentCoinbase" : "2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",
@@ -1420,49 +1370,6 @@
             "0f572e5295c57f15886f9b263e2f6d2d6c7b5ec6" : {
                 "balance" : "0x64",
                 "code" : "0x7c601080600c6000396000f3006000355415600957005b6020356000355560005263ffffffff60036017f0600055",
-                "nonce" : "0x00",
-                "storage" : {
-                }
-            }
-        }
-    },
-    "createNameRegistratorValueTooHigh" : {
-        "callcreates" : [
-        ],
-        "env" : {
-            "currentCoinbase" : "2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",
-            "currentDifficulty" : "0x0100",
-            "currentGasLimit" : "0x0f4240",
-            "currentNumber" : "0x00",
-            "currentTimestamp" : "0x01"
-        },
-        "exec" : {
-            "address" : "0f572e5295c57f15886f9b263e2f6d2d6c7b5ec6",
-            "caller" : "cd1722f3947def4cf144679da39c4c32bdc35681",
-            "code" : "0x7c601080600c6000396000f3006000355415600957005b60203560003555600052601d600360e6f0600055",
-            "data" : "0x",
-            "gas" : "0x0186a0",
-            "gasPrice" : "0x5af3107a4000",
-            "origin" : "cd1722f3947def4cf144679da39c4c32bdc35681",
-            "value" : "0x64"
-        },
-        "gas" : "0xf600",
-        "logs" : [
-        ],
-        "out" : "0x",
-        "post" : {
-            "0f572e5295c57f15886f9b263e2f6d2d6c7b5ec6" : {
-                "balance" : "0x64",
-                "code" : "0x7c601080600c6000396000f3006000355415600957005b60203560003555600052601d600360e6f0600055",
-                "nonce" : "0x00",
-                "storage" : {
-                }
-            }
-        },
-        "pre" : {
-            "0f572e5295c57f15886f9b263e2f6d2d6c7b5ec6" : {
-                "balance" : "0x64",
-                "code" : "0x7c601080600c6000396000f3006000355415600957005b60203560003555600052601d600360e6f0600055",
                 "nonce" : "0x00",
                 "storage" : {
                 }
