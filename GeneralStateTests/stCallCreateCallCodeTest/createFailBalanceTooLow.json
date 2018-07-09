@@ -31,7 +31,7 @@
             ],
             "Frontier" : [
                 {
-                    "hash" : "5833e19631ddedaf4e3c9a766f696c2e59e7524e388eb871be19dc8e0ce37b6e",
+                    "hash" : "55c92327bbe8401de7efef3cd3f1fd2227224e415142bbc36f634920407d4ee5",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
@@ -41,7 +41,7 @@
             ],
             "Homestead" : [
                 {
-                    "hash" : "5833e19631ddedaf4e3c9a766f696c2e59e7524e388eb871be19dc8e0ce37b6e",
+                    "hash" : "55c92327bbe8401de7efef3cd3f1fd2227224e415142bbc36f634920407d4ee5",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
